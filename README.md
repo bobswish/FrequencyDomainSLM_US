@@ -1,5 +1,7 @@
-Readme for FreqDomainSLM_US
+# Readme for FreqDomainSLM_US
+
 This code intended for use with the Tympan Rev-E.
+
 It is a prototype (uncalibrated) detector of unexpected audio energy above 20 kHz.
 Audio is input via the onboard mic, and output through the headphone jack.  The left channel
 audio output has a variable frequency down shift (10, 20, or 25 kHz) while the right channel has a lowpass filter.
